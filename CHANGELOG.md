@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-04-29)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6615](https://github.com/stdlib-js/stdlib/issues/6615)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`9415971`](https://github.com/stdlib-js/stdlib/commit/9415971fffd5a7a8db22479d086fa7f14d9392f0) - **chore:** fix EditorConfig lint errors [(#6863)](https://github.com/stdlib-js/stdlib/pull/6863) _(by zhanggy)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -25,10 +38,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   zhanggy
 
 </section>
 
